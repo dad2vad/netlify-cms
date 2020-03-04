@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/netlify/netlify-cms) 
+
 # Netlify CMS
 
 A CMS for static site generators. Give users a simple way to edit
